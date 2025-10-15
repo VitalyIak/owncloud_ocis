@@ -1,6 +1,7 @@
 # OwnCloud Infinite Scale (OCIS) Add-on for Home Assistant
+![ocis_logo]
 
-Home assistant addon OwnCloud Infinite Scale
+Home assistant addon OwnCloud Infinite Scale    
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -19,3 +20,4 @@ Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>_
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[ocis_logo]: oc-logo-kiteworks-large.svg
