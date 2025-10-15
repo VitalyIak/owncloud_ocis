@@ -15,10 +15,11 @@ map:
   - config:rw
   - share:rw
   - ssl:ro
+icon: "icon.svg"  # Ссылка на файл иконки
+logo: "icon.svg"  # Опционально: можно использовать ту же иконку как лого
 options:
   ocis_domain: "homeassistant.local"
   admin_password: "admin"
 schema:
   ocis_domain: "str"
   admin_password: "str"
-icon: "oc-logo-kiteworks-large.svg"
