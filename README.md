@@ -13,3 +13,4 @@ Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>_
 ![Supports armhf Architecture][armhf-shield]
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
+
