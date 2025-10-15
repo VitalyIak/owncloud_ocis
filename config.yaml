@@ -21,3 +21,4 @@ options:
 schema:
   ocis_domain: "str"
   admin_password: "str"
+icon: "icon.svg"
