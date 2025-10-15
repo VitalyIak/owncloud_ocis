@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: OwnCloud Infinite Scale (OCIS)
-url: "https://github.com/VitalyIak/owncloud_ocis
+url: "https://github.com/VitalyIak/owncloud_ocis"
 maintainer: Vitaly Yakovlev
