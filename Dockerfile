@@ -1,12 +1,11 @@
 ARG BUILD_FROM
-FROM owncloud/ocis:latest
+FROM $BUILD_FROM
 
-# Копируем скрипт запуска в контейнер
-COPY run.sh /
-RUN chmod a+x /run.sh
+# Копируем скрипт запуска в контейнер с правами на выполнение
+COPY --chmod=755 run.sh /
 
 # Задаем точку монтирования для данных
 VOLUME [ "/var/lib/ocis", "/etc/ocis" ]
 
-# Запускаем скрипт при старте контейнера
+# Запускаем сервер oCIS
 CMD [ "/run.sh" ]
