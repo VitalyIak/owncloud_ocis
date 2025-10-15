@@ -1,5 +1,5 @@
-# OwnCloud Infinite Scale (OCIS) Add-on for Home Assistant
-
+# OwnCloud Infinite Scale (OCIS) Add-on for Home 
+<img src="/logo-ownCloud-online.svg" width="150" />
 Home assistant addon OwnCloud Infinite Scale    
 
 ![Supports aarch64 Architecture][aarch64-shield]
