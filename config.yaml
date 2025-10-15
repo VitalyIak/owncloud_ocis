@@ -21,4 +21,4 @@ options:
 schema:
   ocis_domain: "str"
   admin_password: "str"
-icon: "icon.svg"
+icon: "oc-logo-kiteworks-large.svg"
